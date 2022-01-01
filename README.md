@@ -5,8 +5,6 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SwastikGowdaL.SwastikGowdaL)
-
 </p>
 <div size='20px'> My name is Swastik. A hard-working, self-motivated Engineer/workaholic with a deep passion for technology/programming and having a great thirst for knowledge and challenges. 
 </div>
