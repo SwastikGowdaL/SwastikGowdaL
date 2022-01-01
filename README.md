@@ -26,7 +26,11 @@
 <div
   loading="lazy"
   data-mc-src="985cbc11-451c-4708-ac74-9f175f63b259#instagram"></div>
-        
+<script 
+  src="https://cdn2.woxo.tech/a.js#6009274644647b0015c066db" 
+  async data-usrc>
+</script>     
+  
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/SwastikGowdaL?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/SwastikGowdaL?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
@@ -63,9 +67,4 @@
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
-<script 
-  src="https://cdn2.woxo.tech/a.js#6009274644647b0015c066db" 
-  async data-usrc>
-</script>
-  
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
