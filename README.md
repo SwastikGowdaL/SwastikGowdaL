@@ -13,7 +13,8 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on Gossip Chimp (Twitter clone) - An Enterprise-Grade social media web app leveraging MERN stack and microservices architecture.
+- 🔭 I’m currently working on a project called Gossip Chimp (Twitter clone) - An Enterprise-Grade social media web app leveraging MERN stack and microservices architecture.
+  
   link - github.com/stars/SwastikGowdaL/lists/gossipchimp
 
 - 🌱 I’m currently learning React.js , Typescript
